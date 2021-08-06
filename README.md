@@ -1,5 +1,5 @@
 <h1 align="center">Hey There <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Lucas Sacoman</h1>
-<h3 align="center">A novice developer, discovering the world of development.</h3>
+<h3 align="center">A front end developer, discovering the world of development.</h3>
 
 - 🌱 I’m currently learning: HTML, CSS, JavaScript, TypeScript, React. 
 - 📫 How to reach me: **lucas.sacoman1999@gmail.com**
